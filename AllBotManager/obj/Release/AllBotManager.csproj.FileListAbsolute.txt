@@ -1,0 +1,11 @@
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Release\AllBotManager.exe.config
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Release\AllBotManager.exe
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Release\AllBotManager.pdb
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Release\RestSharp.dll
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Release\TelegramBotSharp.dll
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Release\RestSharp.xml
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Release\AllBotManager.Form1.resources
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Release\AllBotManager.Properties.Resources.resources
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Release\AllBotManager.csproj.GenerateResource.Cache
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Release\AllBotManager.exe
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Release\AllBotManager.pdb

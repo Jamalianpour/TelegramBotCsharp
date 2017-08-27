@@ -1,0 +1,13 @@
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\AllBotManager.exe.config
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\AllBotManager.exe
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\AllBotManager.pdb
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\RestSharp.dll
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\TelegramBotSharp.dll
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\RestSharp.xml
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Debug\AllBotManager.csprojResolveAssemblyReference.cache
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Debug\AllBotManager.Form1.resources
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Debug\AllBotManager.Properties.Resources.resources
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Debug\AllBotManager.csproj.GenerateResource.Cache
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Debug\AllBotManager.exe
+c:\users\mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\obj\Debug\AllBotManager.pdb
+C:\Users\Mohammad\documents\visual studio 2015\Projects\AllBotManager\AllBotManager\bin\Debug\System.Data.SQLite.dll
