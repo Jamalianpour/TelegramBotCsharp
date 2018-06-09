@@ -1,2 +1,2 @@
 # TelegramBotCsharp
-you can control all of your telgram bot whit this app.
+you can control all of your telgram bot whit this project.
